@@ -1,0 +1,78 @@
+header {
+    background-color:  rgb(16, 0, 88);
+    color: white;
+    padding: 20px;
+    text-align: right;
+    border-radius: 20px;
+  }
+.nav {
+    background-color: #0e055e00;
+    border-bottom: 1px solid #ccc;
+    padding: 10px;
+  }
+
+  nav ul li:hover {
+    list-style-type: none;
+    transform: scale(1.2);
+    transition: 0.3s;
+  }
+  nav li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  nav a {
+    color: #9dc0e2;
+    text-decoration: none;
+  }  
+  nav a:hover {
+    color: rgb(0, 119, 255);
+    text-decoration: underline;
+   text-shadow: 15px 10px 25px blue;
+  }
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  body{
+    background: url(b.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+  h1 {
+    font-size: 50px;
+    text-align: center;
+    color: rgb(16, 0, 88);
+  }
+  
+  .contact-info {
+    max-width: 500px;
+    margin: 0 auto;
+    background-color: #76b4fcc5;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  p {
+    margin-bottom: 10px;
+    font-size: 30px;
+  }
+  .author{
+    font-size: 35px;
+    text-align: center;
+    color: rgb(16, 0, 88);
+  }
+  .gmail{
+    font-size: 35px;
+  }
+  .gmail1{
+    font-size: 35px;
+  }

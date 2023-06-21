@@ -1,0 +1,40 @@
+.beach{
+	color: rgb(16, 0, 88);
+	font-size: 30px;
+}
+img {
+	 padding: 1%;
+	width: 430px;
+  }
+.boban{
+display:flex;
+padding: 2%;
+}
+img:hover{
+	transform: scale(1.1);
+	transition-duration: 0.5s;
+}
+.seagarden{
+	color: rgb(16, 0, 88);
+	font-size: 30px;
+}
+.garden{
+	display: flex;
+	padding: 2%;
+}
+.katedrala{
+	color: rgb(16, 0, 88);
+	font-size: 30px;
+}
+.primorski{
+	color: rgb(16, 0, 88);
+	font-size: 30px;
+}
+.morska{
+	color: rgb(16, 0, 88);
+	font-size: 30px;
+}
+.center{
+	color: rgb(16, 0, 88);
+	font-size: 30px; 
+}
